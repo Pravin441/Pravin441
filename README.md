@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋, I'm [Pravin Sharma]
 
-<!--
-**Pravin441/Pravin441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 💻 Aspiring Web Developer | 🌱 Currently learning CSS & JavaScript 
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 
+- Personal Portfolio Website
+- To-do List using HTML/CSS/JS(Coming Soon!)
+## 📫 Let's Connect!
+- LinkedIn: [www.linkedin.com/in/pravin-sharma-9a2817315]
+- Email: [ps3400486@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ I’m passionate about building things, learning new technologies, and improving my coding skills every day.
